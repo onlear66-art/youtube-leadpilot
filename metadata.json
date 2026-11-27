@@ -1,0 +1,6 @@
+{
+  "name": "YouTube LeadPilot",
+  "description": "Discover, deduplicate, and qualify YouTube channels by keyword and save completed lead batches into standalone Google Sheets inside Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
